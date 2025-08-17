@@ -7,9 +7,9 @@ We believe that the brain never lies — and through this project, we decode the
 ---
 ## Team Details
 
-Shivani S. Patil
-Rushil B. Thakkar
-Vinayak C. Hosamani
+-Shivani S. Patil
+-Rushil B. Thakkar
+-Vinayak C. Hosamani
 
 Guide : Prof. Kaushik Mallibhat
 
